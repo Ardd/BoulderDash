@@ -10,7 +10,7 @@ public class RysowaniePlanszy implements ImageObserver {
 	Plansze plansze = new Plansze();
 	Obrazki obrazki = new Obrazki();
 	RuchWGrze ruch = new RuchWGrze();
-	
+	dadasd
 	
 	public void rysujPlansze(Graphics g){
 		
